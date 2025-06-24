@@ -39,9 +39,9 @@ I’m a passionate MERN Stack Developer who loves building dynamic, responsive, 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://www.linkedin.com/in/sabbir-xd/"/>
   </a>
-  <a href="mailto:yourname@email.com">
+  <a href="sabbirislam9404@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
