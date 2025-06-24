@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/PZnD3PJC/Mern-dev.png" alt="Sabbir Hossain Banner" width="1000" />
+  <img src="https://i.ibb.co/F4xVxQg1/banner.png" alt="Sabbir Hossain Banner" width="1000" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
