@@ -10,18 +10,20 @@
 
 ## 🙋‍♂️ About Me
 
-I’m a passionate MERN Stack Developer who loves building dynamic, responsive, and user-friendly web applications. With a strong foundation in front-end technologies and backend integration, I’m always eager to learn and implement modern web solutions.
+I’m a passionate MERN Stack Developer focused on creating responsive and user-friendly web apps.  
+Always eager to learn and apply new technologies to solve real-world problems.
 
 ### 🔭 Current Activities
-- 🔍 Exploring **Next.js** and **MongoDB Aggregation**
-- 🌐 Working on a **Tourism Website**
-- 💼 Developing a **Freelancer Job Marketplace**
-- 📚 Improving performance optimization skills in **React**
+- Exploring **Next.js** and **MongoDB Aggregation**
+- Working on a **Parcel delivery Website**
+- Developing a **Freelancer Job Marketplace**
+- Enhancing performance optimization skills in **React**
 
 ---
 
 ## 🛠️ My Tech Stack
 
+<!-- Skills as badges without bullet points -->
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,12 +59,14 @@ I’m a passionate MERN Stack Developer who loves building dynamic, responsive, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-XD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Sabbir-XD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 <p align="center">
-  Thanks for visiting my profile! 😊
+  Thanks for visiting my profile! 😊  
+  <br/>
+  Let's connect and build something awesome!
 </p>
 
