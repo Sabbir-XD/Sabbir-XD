@@ -51,8 +51,6 @@ I’m a passionate MERN Stack Developer who loves building dynamic, responsive, 
 
 ---
 
-## 📊 GitHub Stats
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sabbir-XD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sabbir-XD&theme=dark&hide_border=false)<br/>
