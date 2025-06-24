@@ -1,15 +1,73 @@
-## Hi there 👋
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/ZQZswfv.png" alt="Sabbir Hossain Banner" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
+<h3 align="center">💻 MERN Stack Developer</h3>
 
-**Sabbir-XD/Sabbir-XD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I’m a passionate MERN Stack Developer who loves building dynamic, responsive, and user-friendly web applications. With a strong foundation in front-end technologies and backend integration, I’m always eager to learn and implement modern web solutions.
+
+### 🔭 Current Activities
+- 🔍 Exploring **Next.js** and **MongoDB Aggregation**
+- 🌐 Working on a **Tourism Website**
+- 💼 Developing a **Freelancer Job Marketplace**
+- 📚 Improving performance optimization skills in **React**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <!-- Add more if needed -->
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yourname@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbirislam&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirislam&layout=compact&theme=radical" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sabbirislam&theme=radical" width="95%" />
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
+
