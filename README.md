@@ -16,7 +16,7 @@ Always eager to learn and apply new technologies to solve real-world problems.
 ### 🔭 Current Activities
 - Exploring **Next.js** and **MongoDB Aggregation**
 - Working on a **Parcel delivery Website**
-- Developing a **Freelancer Job Marketplace**
+- Developing a **Savory Spoon Resturant Management**
 - Enhancing performance optimization skills in **React**
 
 ---
