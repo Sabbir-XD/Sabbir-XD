@@ -38,14 +38,14 @@ I’m a passionate MERN Stack Developer who loves building dynamic, responsive, 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://www.linkedin.com/in/sabbir-xd/"/>
+  <a href="https://www.linkedin.com/in/sabbir-xd/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="sabbirislam9404@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:sabbirislam9404@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
