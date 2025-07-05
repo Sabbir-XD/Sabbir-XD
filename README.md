@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
-<h3 align="center">💻 MERN Stack Developer</h3>
+<h3 align="center">💻 Front-end Developer</h3>
 
 ---
 
